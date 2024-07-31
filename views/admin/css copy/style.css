@@ -1,0 +1,37 @@
+
+.header {
+    background-color:#C5C5C5;
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.header-nav {
+    margin: auto;
+    padding: 10px;
+}
+
+
+.header-nav a {
+    margin: auto;
+    margin-bottom: 2px;
+    padding: 10px;
+    box-sizing: border-box;
+    color: #CEE8FF;
+    text-decoration: none;
+    font-size: 1em;    
+    background-color: #3A3535;    
+    border: 2px solid #CEE8FF;
+}
+
+.header-nav a:hover {
+    background-color: #CEE8FF;
+    color: #3A3535;
+    border: 1px solid #3A3535;
+
+}

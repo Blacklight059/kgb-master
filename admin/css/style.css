@@ -1,0 +1,59 @@
+
+.header {
+    background-color:#C5C5C5;
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.nav-item {
+    margin: auto;
+    padding: 10px;
+}
+
+
+.nav-item a {
+    margin: auto;
+    margin-bottom: 2px;
+    padding: 10px;
+    box-sizing: border-box;
+    color: #C5C5C5;
+    text-decoration: none;
+    font-size: 1em;    
+    background-color: #3A3535;    
+    border: 2px solid #C5C5C5;
+    border-radius: 5px;
+
+}
+
+.nav-item a:hover {
+    background-color: #C5C5C5;
+    color: #3A3535;
+    border: 1px solid #3A3535;
+
+}
+
+.card-title {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.card-body {
+    background-color: #CEE8FF;
+    box-shadow: 10px 5px 5px black;
+    margin: 10px;
+
+}
+
+.btn {
+    background-color: #C5C5C5;
+    color: black;
+}
